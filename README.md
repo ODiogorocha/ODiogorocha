@@ -2,8 +2,8 @@
 ### Olá! eu sou o Diogo Rocha👋🏻
 ### 🧠Information Systems student-UFSM
 ### 👾Game development
-### 🔭 Artificial Intelligence enthusiast
-
+### 🔭Artificial Intelligence enthusiast
+### 🤖Cybersecurity enthusiast
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/odiogo.rocha/)
