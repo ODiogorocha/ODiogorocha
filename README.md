@@ -1,6 +1,8 @@
 
 ### Olá! eu sou o Diogo Rocha👋🏻
-
+### 🧠Information Systems student-UFSM
+### 👾Game development
+### 🔭 Artificial Intelligence enthusiast
 
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
@@ -16,3 +18,4 @@
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ODiogorocha&layout=donut)](https://github.com/ODiogorocha/github-readme-stats)
+
