@@ -19,4 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ODiogorocha&layout=donut)](https://github.com/ODiogorocha/github-readme-stats)
 
-![snake gif](https://github.com/ODiogorocha/Sedit/main/README.md/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ODiogorocha/edit/main/README.md/blob/output/github-contribution-grid-snake.svg)
