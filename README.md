@@ -2,8 +2,8 @@
 ### Olá! eu sou o Diogo Rocha👋🏻
 ### 🧠Information Systems student-UFSM
 ### 👾Game development
-### 🔭Artificial Intelligence enthusiast
-### 🤖Cybersecurity enthusiast
+### 🔭Artificial Intelligence 
+### 🤖Cybersecurity 
 
 
 <div align="left">
