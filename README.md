@@ -8,6 +8,10 @@
 
 ---
 
+<div><br>
+    <img style="aling: center" alt="Gif Mario" height="auto" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+</div>
+
 ### 🌐 Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/odiogo.rocha/)
