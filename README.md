@@ -1,9 +1,10 @@
 ### Hi there! I'm Diogo Rocha 👋🏻
 
 🎓 **Information Systems student at UFSM**  
-🎮 Passionate about **Game Development**  
-🧠 Enthusiast in **Artificial Intelligence**  
-🛡️ Exploring the world of **Cybersecurity**  
+🧠 **AI Developer** focused on building intelligent solutions  
+🛡️ **Cybersecurity Manager** passionate about digital protection  
+🎮 **Game Development**
+
 
 ---
 
