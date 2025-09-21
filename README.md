@@ -105,4 +105,10 @@ Currently expanding my skills through real-world challenges and academic researc
 
 ---
 
-<h4 align="center">🚧 Constantly improving, learning, and building meaningful tech — let's create something amazing!</h4>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ODiogorocha/ODiogorocha/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ODiogorocha/ODiogorocha/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ODiogorocha/ODiogorocha/output/pacman-contribution-graph.svg">
+</picture>
+
+###
