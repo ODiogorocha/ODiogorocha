@@ -97,6 +97,14 @@ Currently expanding my skills through real-world challenges and academic researc
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ODiogorocha/ODiogorocha/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ODiogorocha/ODiogorocha/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ODiogorocha/ODiogorocha/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ## 💼 Freelance
 
 <p align="center">
@@ -105,10 +113,4 @@ Currently expanding my skills through real-world challenges and academic researc
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ODiogorocha/ODiogorocha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ODiogorocha/ODiogorocha/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ODiogorocha/ODiogorocha/output/pacman-contribution-graph.svg">
-</picture>
 
-###
