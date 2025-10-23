@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋🏻 I'm Diogo Rocha</h1>
 
 <p align="center">
-🎓 Information Systems student at <strong>UFSM</strong> •  
-🧠 AI Developer passionate about building intelligent systems •  
-🛡️ Cybersecurity Manager and digital security advocate •  
-🎮 Game Development Enthusiast
+Information Systems student at <strong>UFSM</strong> •  
+AI Developer passionate about building intelligent systems •  
+Cybersecurity Manager and digital security advocate •  
+Game Development Enthusiast
 </p>
 
 <div align="center"><br>
@@ -13,7 +13,7 @@
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="center">
 <a href="https://www.instagram.com/odiogo.rocha/"><img src="https://img.shields.io/badge/@odiogo.rocha-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -22,20 +22,20 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I’m a curious and detail-oriented developer focused on **Artificial Intelligence**, **Cybersecurity**, and **Game Development**.  
 I enjoy working on projects that combine creativity and technology, always striving for clean, maintainable, and impactful solutions.  
 Currently expanding my skills through real-world challenges and academic research.  
 
 📌 At the **Federal University of Santa Maria (UFSM)**, I am actively involved in:  
-- 🤖 **Taura Bots** — Robotics development and competitions  
-- ⚡ **RAS-IEEE UFSM** — Robotics & Automation Society (IEEE Student Chapter)  
-- 🌐 **GRECA** — Networks and Cybersecurity Research Lab  
+-  **Taura Bots** — Robotics development and competitions  
+-  **RAS-IEEE UFSM** — Robotics & Automation Society (IEEE Student Chapter)  
+-  **GRECA** — Networks and Cybersecurity Research Lab  
 
 ---
 
-## 🧰 Technologies & Tools
+## Technologies & Tools
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -50,7 +50,7 @@ Currently expanding my skills through real-world challenges and academic researc
 
 ---
 
-## 💻 Operating Systems
+##  Operating Systems
 
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -61,7 +61,7 @@ Currently expanding my skills through real-world challenges and academic researc
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ODiogorocha&show_icons=true&theme=dracula" alt="ODiogorocha GitHub Stats"/>
@@ -85,7 +85,7 @@ Currently expanding my skills through real-world challenges and academic researc
 
 ---
 
-## 🔄 Contributions
+##  Contributions
 
 <p align="center">
   <picture>
@@ -105,7 +105,7 @@ Currently expanding my skills through real-world challenges and academic researc
 
 ###
 
-## 💼 Freelance
+##  Freelance
 
 <p align="center">
 <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
