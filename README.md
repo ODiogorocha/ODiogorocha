@@ -28,7 +28,7 @@ I’m a curious and detail-oriented developer focused on **Artificial Intelligen
 I enjoy working on projects that combine creativity and technology, always striving for clean, maintainable, and impactful solutions.  
 Currently expanding my skills through real-world challenges and academic research.  
 
-📌 At the **Federal University of Santa Maria (UFSM)**, I am actively involved in:  
+ At the **Federal University of Santa Maria (UFSM)**, I am actively involved in:  
 -  **Taura Bots** — Robotics development and competitions  
 -  **RAS-IEEE UFSM** — Robotics & Automation Society (IEEE Student Chapter)  
 -  **GRECA** — Networks and Cybersecurity Research Lab  
