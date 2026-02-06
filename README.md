@@ -7,6 +7,18 @@ Cybersecurity Manager and digital security advocate •
 Game Development Enthusiast
 </p>
 
+##  About Me
+
+I’m a curious and detail-oriented developer focused on **Artificial Intelligence**, **Cybersecurity**, and **Game Development**.  
+I enjoy working on projects that combine creativity and technology, always striving for clean, maintainable, and impactful solutions.  
+Currently expanding my skills through real-world challenges and academic research.  
+
+ At the **Federal University of Santa Maria (UFSM)**, I am actively involved in:  
+-  **Taura Bots** — Robotics development and competitions  
+-  **RAS-IEEE UFSM** — Robotics & Automation Society (IEEE Student Chapter)  
+-  **GRECA** — Networks and Cybersecurity Research Lab  
+
+---
 <div align="center"><br>
     <img alt="Mario Coding GIF" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
@@ -22,18 +34,7 @@ Game Development Enthusiast
 
 ---
 
-##  About Me
 
-I’m a curious and detail-oriented developer focused on **Artificial Intelligence**, **Cybersecurity**, and **Game Development**.  
-I enjoy working on projects that combine creativity and technology, always striving for clean, maintainable, and impactful solutions.  
-Currently expanding my skills through real-world challenges and academic research.  
-
- At the **Federal University of Santa Maria (UFSM)**, I am actively involved in:  
--  **Taura Bots** — Robotics development and competitions  
--  **RAS-IEEE UFSM** — Robotics & Automation Society (IEEE Student Chapter)  
--  **GRECA** — Networks and Cybersecurity Research Lab  
-
----
 
 ## Technologies & Tools
 
