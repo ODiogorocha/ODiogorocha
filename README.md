@@ -16,7 +16,8 @@ Currently expanding my skills through real-world challenges and academic researc
  At the **Federal University of Santa Maria (UFSM)**, I am actively involved in:  
 -  **Taura Bots** — Robotics development and competitions  
 -  **RAS-IEEE UFSM** — Robotics & Automation Society (IEEE Student Chapter)  
--  **GRECA** — Networks and Cybersecurity Research Lab  
+-  **GRECA** — Networks and Cybersecurity Research Lab
+-  **Enactus** — Developer mobile sofware 
 
 ---
 <div align="center"><br>
