@@ -29,7 +29,6 @@ Currently expanding my skills through real-world challenges and academic researc
 ##  Connect with Me
 
 <p align="center">
-<a href="https://www.instagram.com/odiogo.rocha/"><img src="https://img.shields.io/badge/@odiogo.rocha-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/diogo-rocha-ba1b6128a/"><img src="https://img.shields.io/badge/Diogo%20Rocha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
